@@ -28,12 +28,12 @@ This project helps users **add, delete, and manage their daily tasks** with a GU
 
 ## 👨‍💻 Author
 
-**Abhay Bhaskar**  
-📍 Patna, Bihar  
-🎓 BCA Student  
+**Nishi**  
+📍Ghaziabad , Uttar Pradesh
+🎓 B.Tech Student  
 💻 Aspiring Java Developer
 
-GitHub: [abhaybhaskarIT](https://github.com/abhaybhaskarIT)
+GitHub: [nishii1](https://github.com/nishii1)
 
 ---
 
@@ -44,14 +44,5 @@ GitHub: [abhaybhaskarIT](https://github.com/abhaybhaskarIT)
 - Task categories
 
 ---
-
-### 🔗 How to Run
-
-1. Clone the repository  
-   `git clone https://github.com/abhaybhaskarIT/Java-ToDo-List-App.git`
-
-2. Open the project in your Java IDE (like IntelliJ or VS Code)
-
-3. Run the `Main.java` file
 
 Enjoy organizing your tasks! 🎯
